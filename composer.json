@@ -1,0 +1,11 @@
+{
+    "require": {
+        "eggmatters/pmf": "dev-composer_setup"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "/home/matthewe/pmf_composer"
+        }
+    ]
+}
